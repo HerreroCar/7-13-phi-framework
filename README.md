@@ -208,23 +208,6 @@ m_f = v·exp(-k·y_f)
 - Casimires con estructura φⁿ
 - Golden ratio en jerarquías
 
----
-
-
-## 📖 Citación
-
-Si utilizas este trabajo, por favor cita:
-
-```bibtex
-@article{Herrero2025_7_13_phi,
-  title={La Estructura 7-13-φ del Modelo Estándar: Una Derivación Geométrica de las Masas Fermiónicas con Cálculo Explícito Chern-Simons},
-  author={Herrero González, Carlos},
-  journal={arXiv preprint arXiv:2025.XXXXX},
-  year={2025},
-  note={Versión 4.0}
-}
-```
-
 
 ---
 
