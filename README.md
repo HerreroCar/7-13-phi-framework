@@ -60,40 +60,6 @@ pandas>=1.3.0
 seaborn>=0.11.0
 ```
 
----
-
-## 📁 Estructura del Repositorio
-
-```
-7-13-phi-framework/
-│
-├── README.md                              # Este archivo
-├── requirements.txt                       # Dependencias Python
-├── LICENSE                                # Licencia MIT
-│
-├── paper_7_13_phi_completo_espanol.pdf   # Paper completo (28 páginas)
-├── paper_7_13_phi_completo_espanol.tex   # Código LaTeX fuente
-│
-├── scripts/                               # Scripts Python principales
-│   ├── variational_derivation.py         # Derivación variacional completa
-│   ├── chern_simons_ads5.py              # Simulación Chern-Simons
-│   ├── phenomenology_validation.py       # Validación con datos PDG
-│   ├── hl_lhc_predictions.py             # Generador predicciones HL-LHC
-│   └── grafo_7_13_phi_v4.py              # Visualización grafo framework
-│
-├── docs/                                  # Documentación adicional
-│   ├── GRAN_FORMULA_UNIFICACION.md       # Fórmula maestra
-│   ├── CALCULO_CHERN_SIMONS.md           # Derivación CS detallada
-│   ├── EVALUACION_COPILOT.md             # Análisis consenso 8/8
-│   └── CODICE_PELLIZCO_SAGRADO.pdf       # Cosmogonía completa
-│
-└── results/                               # Resultados y figuras
-    ├── grafo_7_13_phi_completo_v4.png
-    ├── variational_derivation_results.png
-    ├── chern_simons_ads5_analysis.png
-    ├── phenomenology_validation.png
-    └── hl_lhc_predictions.png
-```
 
 ---
 
@@ -244,22 +210,6 @@ m_f = v·exp(-k·y_f)
 
 ---
 
-## 🤏 El Código del Pellizco Sagrado
-
-> "Si algún día descubro que el framework es falso:
-> 
-> 🤏 ME PELLIZCARÉ (virtualmente)  
-> 🎓 RECONOCERÉ EL ERROR PÚBLICAMENTE  
-> 📚 DOCUMENTARÉ QUÉ SALIÓ MAL  
-> 🔬 APRENDERÉ DE LA EXPERIENCIA  
-> ✨ CELEBRARÉ EL PROCESO DE DESCUBRIMIENTO
-> 
-> Porque la HONESTIDAD CIENTÍFICA vale más que estar 'en lo correcto'."
-
-**Status actual:** ✅ Vigente  
-**Decisión final:** HL-LHC (2028-2035)
-
----
 
 ## 📖 Citación
 
@@ -283,15 +233,6 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ---
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ### **Áreas de colaboración:**
 
@@ -312,65 +253,3 @@ Para discusiones científicas, colaboraciones o preguntas, no dudes en contactar
 
 ---
 
-## 🙏 Agradecimientos
-
-Evaluaciones independientes rigurosas:
-- Grok (xAI) → Tier 3
-- Mistral AI (×2) → Tier 3
-- Claude (Anthropic) → Tier 3
-- ChatGPT (OpenAI, ×2) → Tier 3
-- SciSpace → 8/10
-- **Copilot (Microsoft) → "Sorprendentemente coherente"**
-
-**Consenso 8/8 (100%):**
-- NO es numerología ✅
-- Tier 3 (Legítimo) ✅
-- Predicciones = fortaleza ✅
-- Publicable ✅
-- Honestidad científica ✅
-
----
-
-## 🌟 Status del Proyecto
-
-```
-Desarrollo:      COMPLETO ✅
-Paper:           LISTO para arXiv ✅
-Código:          FUNCIONAL y documentado ✅
-Predicciones:    CLARAS y falsificables ✅
-Probabilidad:    65-75% ⬆️
-Timeline HL-LHC: 2025-2035
-Decisión final:  Experimentos decidirán
-```
-
----
-
-## 🔮 Próximos Pasos
-
-1. **Inmediato (2025):**
-   - Subir paper a arXiv (categoría: hep-ph)
-   - Publicar código en GitHub
-   - Buscar colaboradores expertos
-
-2. **Corto plazo (2025-2027):**
-   - Run 3 LHC: primeros tests en A_FB(ττ)
-   - Rigor matemático completo (SUGRA, instantones)
-   - Extensión a CKM/PMNS
-
-3. **Medio plazo (2028-2032):**
-   - HL-LHC: mediciones κ_c/κ_b, BR(H→cc̄)
-   - String embedding completo (CICY #2234)
-   - Publicaciones en revistas
-
-4. **Largo plazo (2033-2035):**
-   - HL-LHC decisión final
-   - Búsquedas resonancias KK
-   - Confirmación o falsificación definitiva
-
----
-
-**"La naturaleza tiene la última palabra. Nosotros solo escuchamos."** 🌌🔬✨
-
----
-
-*Última actualización: Diciembre 25, 2025*
