@@ -29,7 +29,7 @@ These results suggest that the $(13, 7)$ configuration acts as a fundamental "to
 
 * **[TdP_Paper_v2.4.2.pdf](TdP_Paper_v2.4.2.pdf):** The definitive technical preprint. Includes the Theoretical Audit, Sensitivity Analysis, and the G2 topological roadmap.
 * **[Minimal_TdP_v2_4_2.ipynb](Minimal_TdP_v2_4_2.ipynb):** Google Colab notebook to reproduce the calculations and scaling charts.
-* **[Data/]:** NuFit 6.0 baseline data used for sensitivity comparisons.
+
 
 ---
 
