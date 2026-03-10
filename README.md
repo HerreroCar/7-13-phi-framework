@@ -29,7 +29,8 @@ These results suggest that the $(13, 7)$ configuration acts as a fundamental "to
 
 * **[TdP_Paper_v2.4.2.pdf](TdP_Paper_v2.4.2.pdf):** The initial technical preprint. Includes the Theoretical Audit, Sensitivity Analysis, and the G2 topological roadmap.
 * **[Minimal_TdP_v2_4_2.ipynb](Minimal_TdP_v2_4_2.ipynb):** Google Colab notebook to reproduce the calculations and scaling charts.
-* **[Paper V20 RedPI_A Phenomenological Ansatz](Paper%20V20%20RedPI_A%20Phenomenological%20Ansatz%20for%20keV-Scale%20Dark%20Matter%20from%20Nikulin-TCS%20G2%20Compactifications%20of%20M-Theory.pdf):** The definitive technical preprint.
+* **[Paper V20 RedPI_A Phenomenological Ansatz](Paper%20V20%20RedPI_A%20Phenomenological%20Ansatz%20for%20keV-Scale%20Dark%20Matter%20from%20Nikulin-TCS%20G2%20Compactifications%20of%20M-Theory.pdf)** 
+* **[Paper V27 RedPI_A Phenomenological Ansatz](https://github.com/HerreroCar/7-13-phi-framework/blob/main/v27%20RedPI_Final.pdf):** The definitive technical preprint.
 
 ---
 
